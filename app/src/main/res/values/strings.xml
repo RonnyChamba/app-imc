@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APP IMC</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="otro">Otro</string>
+    <string name="imc">IMC:</string>
+    <string name="textSalir">Salir</string>
+    <string name="textCalcular">Calcular</string>
+    <string name="title">Calculo Indice Masa Corporal</string>
+    <string name="datos_personales">Ronny Chamba - 2022/05/15</string>
+</resources>
